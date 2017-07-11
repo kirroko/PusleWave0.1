@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: d6cedb0944149094f9cfcf3056fc7784
+timeCreated: 1484944981
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Triangle_Green_Pulse_SS_0
+    21300002: Triangle_Green_Pulse_SS_1
+    21300004: Triangle_Green_Pulse_SS_2
+    21300006: Triangle_Green_Pulse_SS_3
+    21300008: Triangle_Green_Pulse_SS_4
+    21300010: Triangle_Green_Pulse_SS_5
+    21300012: Triangle_Green_Pulse_SS_6
+    21300014: Triangle_Green_Pulse_SS_7
+    21300016: Triangle_Green_Pulse_SS_8
+    21300018: Triangle_Green_Pulse_SS_9
+    21300020: Triangle_Green_Pulse_SS_10
+    21300022: Triangle_Green_Pulse_SS_11
+    21300024: Triangle_Green_Pulse_SS_12
+    21300026: Triangle_Green_Pulse_SS_13
+    21300028: Triangle_Green_Pulse_SS_14
+    21300030: Triangle_Green_Pulse_SS_15
+    21300032: Triangle_Green_Pulse_SS_16
+    21300034: Triangle_Green_Pulse_SS_17
+    21300036: Triangle_Green_Pulse_SS_18
+    21300038: Triangle_Green_Pulse_SS_19
+    21300040: Triangle_Green_Pulse_SS_20
+    21300042: Triangle_Green_Pulse_SS_21
+    21300044: Triangle_Green_Pulse_SS_22
+    21300046: Triangle_Green_Pulse_SS_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1024
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3382
+        width: 502
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_1
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 3370
+        width: 527
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_2
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 3358
+        width: 548
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_3
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 3350
+        width: 573
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_4
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 3338
+        width: 596
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_5
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 3330
+        width: 624
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_6
+      rect:
+        serializedVersion: 2
+        x: 7206
+        y: 3318
+        width: 644
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2302
+        width: 674
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_8
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2291
+        width: 696
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_9
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 2282
+        width: 720
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_10
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 2270
+        width: 753
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_11
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2256
+        width: 774
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_12
+      rect:
+        serializedVersion: 2
+        x: 5971
+        y: 2250
+        width: 797
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_13
+      rect:
+        serializedVersion: 2
+        x: 7118
+        y: 2238
+        width: 820
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1223
+        width: 844
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_15
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1214
+        width: 881
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_16
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1200
+        width: 896
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_17
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 1194
+        width: 919
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_18
+      rect:
+        serializedVersion: 2
+        x: 4742
+        y: 1182
+        width: 940
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_19
+      rect:
+        serializedVersion: 2
+        x: 5886
+        y: 1174
+        width: 967
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_20
+      rect:
+        serializedVersion: 2
+        x: 7030
+        y: 1162
+        width: 992
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 1022
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_22
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 134
+        width: 1040
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Triangle_Green_Pulse_SS_23
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 126
+        width: 1064
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1783305828371444}
+  m_IsPrefabParent: 1
+--- !u!1 &1097654732028740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4519349164167532}
+  m_Layer: 0
+  m_Name: Transform (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1145872873735698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4769153502765258}
+  m_Layer: 0
+  m_Name: Transform (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1303973200886566
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4181095266922848}
+  m_Layer: 0
+  m_Name: Transform (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1455129432910240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4365594685765896}
+  m_Layer: 0
+  m_Name: Transform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1783305828371444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4255334681721396}
+  - component: {fileID: 114332132203023516}
+  m_Layer: 0
+  m_Name: WaveGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4181095266922848
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1303973200886566}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.15, y: -2.33, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4255334681721396}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4255334681721396
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1783305828371444}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4365594685765896}
+  - {fileID: 4519349164167532}
+  - {fileID: 4181095266922848}
+  - {fileID: 4769153502765258}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4365594685765896
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1455129432910240}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.69, y: 3.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4255334681721396}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4519349164167532
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1097654732028740}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.69, y: -2.33, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4255334681721396}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4769153502765258
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1145872873735698}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.15, y: 3.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4255334681721396}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114332132203023516
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1783305828371444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39812028c6e02e94ba9fea92249139fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waves:
+  - name: Wave1
+    enemy:
+    - {fileID: 4629191124560474, guid: 786b3febd73bc6d4b95b166b2df90686, type: 2}
+    - {fileID: 4492165642191814, guid: a57c59cead7523043911a4cb7f043e1c, type: 2}
+    count: 10
+    rate: 1
+  - name: Wave2
+    enemy:
+    - {fileID: 4629191124560474, guid: 786b3febd73bc6d4b95b166b2df90686, type: 2}
+    - {fileID: 4492165642191814, guid: a57c59cead7523043911a4cb7f043e1c, type: 2}
+    - {fileID: 4516736590129158, guid: b513e01d68655a043b66cb1117b7e29f, type: 2}
+    - {fileID: 4558369078418608, guid: f49a2aceb2e1dc34aa3674093b216e34, type: 2}
+    count: 20
+    rate: 1.5
+  - name: Wave3
+    enemy:
+    - {fileID: 4490390032058158, guid: d9a6e8af7afca264e906313b38ae687d, type: 2}
+    - {fileID: 4979096903774800, guid: 040bfc483dfcd424dbb3dc24fcaf6d69, type: 2}
+    - {fileID: 4311599146883074, guid: 571098d3f9e904345bbaafde339d2a10, type: 2}
+    - {fileID: 4978671591931776, guid: 732f15e1c3e25db4e998478b433243ed, type: 2}
+    - {fileID: 4601458263204128, guid: 27edba47cbe1a6f4383a81de080752c0, type: 2}
+    - {fileID: 4695179588026452, guid: 269d9e63636a39c4cb5feab2772486b7, type: 2}
+    count: 30
+    rate: 2
+  - name: Wave4
+    enemy:
+    - {fileID: 4672567998510260, guid: 66887874da2067545a2a1640ad276d82, type: 2}
+    - {fileID: 4504710018687966, guid: 9568724fe622e8146b45853c47934e9b, type: 2}
+    - {fileID: 4896937091190994, guid: 85095efe481512a47a03dad91da7de8d, type: 2}
+    - {fileID: 4558369078418608, guid: f49a2aceb2e1dc34aa3674093b216e34, type: 2}
+    - {fileID: 4806361009972702, guid: b9b92fceb3595ad479736d5914b8b6c5, type: 2}
+    - {fileID: 4776147908673162, guid: 15e31f129980d6440bcea44e058633d0, type: 2}
+    - {fileID: 4910185369606124, guid: 16b5f8e8e72138d4aab2c52c7c74aaf0, type: 2}
+    - {fileID: 4986391433398582, guid: 40fbf508a04519a46a213463753babff, type: 2}
+    count: 40
+    rate: 2
+  - name: Wave5
+    enemy:
+    - {fileID: 4806361009972702, guid: b9b92fceb3595ad479736d5914b8b6c5, type: 2}
+    - {fileID: 4516736590129158, guid: b513e01d68655a043b66cb1117b7e29f, type: 2}
+    - {fileID: 4978671591931776, guid: 732f15e1c3e25db4e998478b433243ed, type: 2}
+    - {fileID: 4776147908673162, guid: 15e31f129980d6440bcea44e058633d0, type: 2}
+    - {fileID: 4601458263204128, guid: 27edba47cbe1a6f4383a81de080752c0, type: 2}
+    - {fileID: 4912228478339944, guid: 592d3644f6b3aa146980a107fd03f3c4, type: 2}
+    - {fileID: 4492165642191814, guid: a57c59cead7523043911a4cb7f043e1c, type: 2}
+    - {fileID: 4695179588026452, guid: 269d9e63636a39c4cb5feab2772486b7, type: 2}
+    - {fileID: 4910185369606124, guid: 16b5f8e8e72138d4aab2c52c7c74aaf0, type: 2}
+    - {fileID: 4481174963552384, guid: de1261e5eccc5944a901674283a9260e, type: 2}
+    - {fileID: 4986391433398582, guid: 40fbf508a04519a46a213463753babff, type: 2}
+    - {fileID: 4069225165501236, guid: dcb9fb0a97906bc4cbe7e1b9b830ff6d, type: 2}
+    count: 50
+    rate: 2
+  spawnPoints:
+  - {fileID: 4365594685765896}
+  - {fileID: 4519349164167532}
+  - {fileID: 4181095266922848}
+  - {fileID: 4769153502765258}
+  timeBetweenWaves: 5
+  waveCountdown: 0
+  theGameManager: {fileID: 0}

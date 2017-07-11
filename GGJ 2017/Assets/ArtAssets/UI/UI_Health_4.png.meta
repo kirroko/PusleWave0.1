@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: df992999c2d6ce44983c202e3164e557
+timeCreated: 1485065503
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_Health_4_0
+    21300002: UI_Health_4_1
+    21300004: UI_Health_4_2
+    21300006: UI_Health_4_3
+    21300008: UI_Health_4_5
+    21300010: UI_Health_4_7
+    21300012: UI_Health_4_8
+    21300014: UI_Health_4_9
+    21300016: UI_Health_4_10
+    21300018: UI_Health_4_11
+    21300020: UI_Health_4_12
+    21300022: UI_Health_4_13
+    21300024: UI_Health_4_15
+    21300026: UI_Health_4_17
+    21300028: UI_Health_4_18
+    21300030: UI_Health_4_20
+    21300032: UI_Health_4_21
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 256
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Health_4_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3468
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_1
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 3468
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_2
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 3468
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_3
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 3468
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2828
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_7
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2828
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_8
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2828
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_10
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 2826
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2188
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_13
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2188
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_15
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2188
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_17
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 2188
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1548
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_20
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1548
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Health_4_21
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1548
+        width: 922
+        height: 616
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

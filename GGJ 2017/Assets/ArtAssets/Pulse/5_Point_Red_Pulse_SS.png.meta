@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 52d39d5202f3928448d68fdb924a9444
+timeCreated: 1484944061
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 5_Point_Red_Pulse_SS_0
+    21300002: 5_Point_Red_Pulse_SS_1
+    21300004: 5_Point_Red_Pulse_SS_2
+    21300006: 5_Point_Red_Pulse_SS_3
+    21300008: 5_Point_Red_Pulse_SS_4
+    21300010: 5_Point_Red_Pulse_SS_5
+    21300012: 5_Point_Red_Pulse_SS_6
+    21300014: 5_Point_Red_Pulse_SS_7
+    21300016: 5_Point_Red_Pulse_SS_8
+    21300018: 5_Point_Red_Pulse_SS_9
+    21300020: 5_Point_Red_Pulse_SS_10
+    21300022: 5_Point_Red_Pulse_SS_11
+    21300024: 5_Point_Red_Pulse_SS_12
+    21300026: 5_Point_Red_Pulse_SS_13
+    21300028: 5_Point_Red_Pulse_SS_14
+    21300030: 5_Point_Red_Pulse_SS_15
+    21300032: 5_Point_Red_Pulse_SS_16
+    21300034: 5_Point_Red_Pulse_SS_17
+    21300036: 5_Point_Red_Pulse_SS_18
+    21300038: 5_Point_Red_Pulse_SS_19
+    21300040: 5_Point_Red_Pulse_SS_20
+    21300042: 5_Point_Red_Pulse_SS_21
+    21300044: 5_Point_Red_Pulse_SS_22
+    21300046: 5_Point_Red_Pulse_SS_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1024
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_0
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 7315
+        width: 600
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_1
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 7303
+        width: 628
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_2
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 7291
+        width: 662
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_3
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 7277
+        width: 690
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_4
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 7266
+        width: 722
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_5
+      rect:
+        serializedVersion: 2
+        x: 6739
+        y: 7251
+        width: 754
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6059
+        width: 782
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_7
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 6045
+        width: 812
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_8
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 6034
+        width: 842
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_9
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 6019
+        width: 873
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_10
+      rect:
+        serializedVersion: 2
+        x: 5371
+        y: 6007
+        width: 904
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_11
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 5991
+        width: 934
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4799
+        width: 962
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_13
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 4787
+        width: 994
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_14
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 4771
+        width: 1024
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_15
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 4762
+        width: 1050
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_16
+      rect:
+        serializedVersion: 2
+        x: 5283
+        y: 4747
+        width: 1080
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_17
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 4733
+        width: 1114
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3543
+        width: 1144
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_19
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 3523
+        width: 1170
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_20
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 3514
+        width: 1202
+        height: 1139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_21
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 3500
+        width: 1231
+        height: 1157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_22
+      rect:
+        serializedVersion: 2
+        x: 5191
+        y: 3485
+        width: 1262
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5_Point_Red_Pulse_SS_23
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 3473
+        width: 1293
+        height: 1185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

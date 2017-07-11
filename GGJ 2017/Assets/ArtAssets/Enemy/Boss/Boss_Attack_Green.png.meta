@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 3212f1893f402054f8a124990a1da5bb
+timeCreated: 1485020036
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss_Attack_Green_0
+    21300002: Boss_Attack_Green_1
+    21300004: Boss_Attack_Green_2
+    21300006: Boss_Attack_Green_3
+    21300008: Boss_Attack_Green_4
+    21300010: Boss_Attack_Green_5
+    21300012: Boss_Attack_Green_6
+    21300014: Boss_Attack_Green_7
+    21300016: Boss_Attack_Green_8
+    21300018: Boss_Attack_Green_9
+    21300020: Boss_Attack_Green_10
+    21300022: Boss_Attack_Green_11
+    21300024: Boss_Attack_Green_12
+    21300026: Boss_Attack_Green_13
+    21300028: Boss_Attack_Green_14
+    21300030: Boss_Attack_Green_15
+    21300032: Boss_Attack_Green_16
+    21300034: Boss_Attack_Green_17
+    21300036: Boss_Attack_Green_18
+    21300038: Boss_Attack_Green_19
+    21300040: Boss_Attack_Green_20
+    21300042: Boss_Attack_Green_21
+    21300044: Boss_Attack_Green_22
+    21300046: Boss_Attack_Green_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Attack_Green_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7202
+        width: 354
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_1
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 7182
+        width: 376
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_2
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 7159
+        width: 408
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_3
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 7138
+        width: 437
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_4
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 7118
+        width: 475
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_5
+      rect:
+        serializedVersion: 2
+        x: 5950
+        y: 7098
+        width: 500
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_6
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 7078
+        width: 528
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 5538
+        width: 560
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_8
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 5518
+        width: 592
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_9
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 5495
+        width: 624
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_10
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 5478
+        width: 657
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_11
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 5454
+        width: 684
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_12
+      rect:
+        serializedVersion: 2
+        x: 5842
+        y: 5434
+        width: 718
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_13
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 5414
+        width: 744
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 3874
+        width: 786
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_15
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 3854
+        width: 811
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_16
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 3834
+        width: 840
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_17
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 3808
+        width: 881
+        height: 1170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_18
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 3792
+        width: 900
+        height: 1206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_19
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 3770
+        width: 928
+        height: 1248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_20
+      rect:
+        serializedVersion: 2
+        x: 6846
+        y: 3750
+        width: 963
+        height: 1292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2210
+        width: 998
+        height: 1332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_22
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 2190
+        width: 1024
+        height: 1372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_Attack_Green_23
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2170
+        width: 1055
+        height: 1412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1809317480255710}
+  m_IsPrefabParent: 1
+--- !u!1 &1252290715638248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4943409737578658}
+  m_Layer: 0
+  m_Name: Transform (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1293480122882034
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4682319335169688}
+  m_Layer: 0
+  m_Name: Transform (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1381426016126976
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4529244134281316}
+  m_Layer: 0
+  m_Name: Transform (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1520871640458962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4676487563463120}
+  m_Layer: 0
+  m_Name: Transform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1809317480255710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4544611378393860}
+  - component: {fileID: 114504184356796620}
+  m_Layer: 0
+  m_Name: WaveGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4529244134281316
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1381426016126976}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.15, y: -2.33, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4544611378393860}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4544611378393860
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1809317480255710}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4676487563463120}
+  - {fileID: 4943409737578658}
+  - {fileID: 4529244134281316}
+  - {fileID: 4682319335169688}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4676487563463120
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1520871640458962}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.69, y: 3.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4544611378393860}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4682319335169688
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1293480122882034}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.15, y: 3.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4544611378393860}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4943409737578658
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1252290715638248}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.69, y: -2.33, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4544611378393860}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114504184356796620
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1809317480255710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39812028c6e02e94ba9fea92249139fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waves:
+  - name: Wave1
+    enemy:
+    - {fileID: 4629191124560474, guid: 786b3febd73bc6d4b95b166b2df90686, type: 2}
+    - {fileID: 4492165642191814, guid: a57c59cead7523043911a4cb7f043e1c, type: 2}
+    count: 5
+    rate: 1
+  - name: Wave2
+    enemy:
+    - {fileID: 4629191124560474, guid: 786b3febd73bc6d4b95b166b2df90686, type: 2}
+    - {fileID: 4492165642191814, guid: a57c59cead7523043911a4cb7f043e1c, type: 2}
+    - {fileID: 4516736590129158, guid: b513e01d68655a043b66cb1117b7e29f, type: 2}
+    count: 15
+    rate: 1.5
+  - name: Wave3
+    enemy:
+    - {fileID: 4490390032058158, guid: d9a6e8af7afca264e906313b38ae687d, type: 2}
+    - {fileID: 4979096903774800, guid: 040bfc483dfcd424dbb3dc24fcaf6d69, type: 2}
+    - {fileID: 4311599146883074, guid: 571098d3f9e904345bbaafde339d2a10, type: 2}
+    - {fileID: 4978671591931776, guid: 732f15e1c3e25db4e998478b433243ed, type: 2}
+    count: 20
+    rate: 2
+  - name: Wave4
+    enemy:
+    - {fileID: 4629191124560474, guid: 786b3febd73bc6d4b95b166b2df90686, type: 2}
+    - {fileID: 4558369078418608, guid: f49a2aceb2e1dc34aa3674093b216e34, type: 2}
+    - {fileID: 4806361009972702, guid: b9b92fceb3595ad479736d5914b8b6c5, type: 2}
+    - {fileID: 4601458263204128, guid: 27edba47cbe1a6f4383a81de080752c0, type: 2}
+    count: 30
+    rate: 2
+  - name: Wave5
+    enemy:
+    - {fileID: 4504710018687966, guid: 9568724fe622e8146b45853c47934e9b, type: 2}
+    - {fileID: 4986391433398582, guid: 40fbf508a04519a46a213463753babff, type: 2}
+    - {fileID: 4806361009972702, guid: b9b92fceb3595ad479736d5914b8b6c5, type: 2}
+    - {fileID: 4492165642191814, guid: a57c59cead7523043911a4cb7f043e1c, type: 2}
+    count: 30
+    rate: 2
+  spawnPoints:
+  - {fileID: 4676487563463120}
+  - {fileID: 4943409737578658}
+  - {fileID: 4529244134281316}
+  - {fileID: 4682319335169688}
+  timeBetweenWaves: 5
+  waveCountdown: 0
+  next: {fileID: 0}
+  theGameManager: {fileID: 0}

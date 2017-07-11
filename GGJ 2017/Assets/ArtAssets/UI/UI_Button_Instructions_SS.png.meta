@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: e5f4cd5a570d00f47beebc4fa8ce8e8a
+timeCreated: 1485041342
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_Button_Instructions_SS_0
+    21300002: Btn_Start_1
+    21300004: Btn_Start_2
+    21300006: UI_Button_Instructions_SS_3
+    21300008: UI_Button_Instructions_SS_4
+    21300010: UI_Button_Instructions_SS_5
+    21300012: UI_Button_Instructions_SS_6
+    21300014: UI_Button_Instructions_SS_7
+    21300016: UI_Button_Instructions_SS_8
+    21300018: UI_Button_Instructions_SS_9
+    21300020: UI_Button_Instructions_SS_10
+    21300022: UI_Button_Instructions_SS_11
+    21300024: UI_Button_Instructions_SS_12
+    21300026: UI_Button_Instructions_SS_13
+    21300028: UI_Button_Instructions_SS_14
+    21300030: UI_Button_Instructions_SS_15
+    21300032: UI_Button_Instructions_SS_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3482
+        width: 799
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Btn_Start_1
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 3449
+        width: 865
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Btn_Start_2
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 3449
+        width: 865
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_3
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 3439
+        width: 871
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_4
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 3439
+        width: 871
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_5
+      rect:
+        serializedVersion: 2
+        x: 5758
+        y: 3439
+        width: 868
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_6
+      rect:
+        serializedVersion: 2
+        x: 6886
+        y: 3446
+        width: 868
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_7
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3455
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2322
+        width: 868
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_9
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2320
+        width: 874
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_10
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 2319
+        width: 868
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_11
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2320
+        width: 870
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_12
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 2319
+        width: 871
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_13
+      rect:
+        serializedVersion: 2
+        x: 5758
+        y: 2319
+        width: 868
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_14
+      rect:
+        serializedVersion: 2
+        x: 6886
+        y: 2320
+        width: 874
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1198
+        width: 868
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_Button_Instructions_SS_16
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1198
+        width: 874
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

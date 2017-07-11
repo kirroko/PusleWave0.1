@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dc8e8727b2a07d946acc88fbb95c9996
+timeCreated: 1485062066
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - panel: {instanceID: 0}
+  - Click: {fileID: 8300000, guid: ca5e22275e8292a47b79db2c65786b36, type: 3}
+  - Click2: {fileID: 8300000, guid: eeb82e0f3abba7b4a8e84731f8423db3, type: 3}
+  - Click3: {instanceID: 0}
+  - BackClick: {fileID: 8300000, guid: c771c19f4c6054643864e1806c269117, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

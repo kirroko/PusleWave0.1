@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4d05377fa1a649542889a129729b7742
+timeCreated: 1485004869
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - health1: {instanceID: 0}
+  - health2: {instanceID: 0}
+  - health3: {instanceID: 0}
+  - health4: {instanceID: 0}
+  - health5: {instanceID: 0}
+  - health6: {instanceID: 0}
+  - deathAudio: {fileID: 8300000, guid: 3b272ca77cd80d54b918718db1898076, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

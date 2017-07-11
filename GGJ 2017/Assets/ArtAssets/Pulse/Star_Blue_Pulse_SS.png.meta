@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: add5f8c320e01264c88b8a02bda227fc
+timeCreated: 1484944504
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Star_Blue_Pulse_SS_0
+    21300002: Star_Blue_Pulse_SS_1
+    21300004: Star_Blue_Pulse_SS_2
+    21300006: Star_Blue_Pulse_SS_3
+    21300008: Star_Blue_Pulse_SS_4
+    21300010: Star_Blue_Pulse_SS_5
+    21300012: Star_Blue_Pulse_SS_6
+    21300014: Star_Blue_Pulse_SS_7
+    21300016: Star_Blue_Pulse_SS_8
+    21300018: Star_Blue_Pulse_SS_9
+    21300020: Star_Blue_Pulse_SS_10
+    21300022: Star_Blue_Pulse_SS_11
+    21300024: Star_Blue_Pulse_SS_12
+    21300026: Star_Blue_Pulse_SS_13
+    21300028: Star_Blue_Pulse_SS_14
+    21300030: Star_Blue_Pulse_SS_15
+    21300032: Star_Blue_Pulse_SS_16
+    21300034: Star_Blue_Pulse_SS_17
+    21300036: Star_Blue_Pulse_SS_18
+    21300038: Star_Blue_Pulse_SS_19
+    21300040: Star_Blue_Pulse_SS_20
+    21300042: Star_Blue_Pulse_SS_21
+    21300044: Star_Blue_Pulse_SS_22
+    21300046: Star_Blue_Pulse_SS_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 32
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1024
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_0
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 7151
+        width: 647
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_1
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 7136
+        width: 676
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_2
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 7126
+        width: 704
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_3
+      rect:
+        serializedVersion: 2
+        x: 4863
+        y: 7110
+        width: 743
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_4
+      rect:
+        serializedVersion: 2
+        x: 6346
+        y: 7088
+        width: 775
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 5618
+        width: 806
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_6
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 5600
+        width: 838
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_7
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 5583
+        width: 870
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_8
+      rect:
+        serializedVersion: 2
+        x: 4786
+        y: 5574
+        width: 899
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_9
+      rect:
+        serializedVersion: 2
+        x: 6266
+        y: 5558
+        width: 934
+        height: 884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4079
+        width: 958
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_11
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 4062
+        width: 994
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_12
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 4047
+        width: 1022
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_13
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 4031
+        width: 1053
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_14
+      rect:
+        serializedVersion: 2
+        x: 6187
+        y: 4022
+        width: 1087
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2542
+        width: 1118
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_16
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2528
+        width: 1148
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_17
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2512
+        width: 1186
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_18
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 2496
+        width: 1212
+        height: 1157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_19
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 2480
+        width: 1244
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1006
+        width: 1276
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_21
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 990
+        width: 1308
+        height: 1244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_22
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 975
+        width: 1346
+        height: 1281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star_Blue_Pulse_SS_23
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 960
+        width: 1372
+        height: 1306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
